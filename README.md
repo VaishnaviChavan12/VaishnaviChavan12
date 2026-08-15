@@ -8,71 +8,79 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 - **AI-Assisted Development:** Utilize ChatGPT, Google Gemini, and GitHub Copilot for code analysis, debugging, documentation, code suggestions, and development productivity while reviewing generated code for correctness, security, performance, and architectural alignment.<br>
 - **Development Practices:** Follow Agile/Scrum, Git-based version control, coding standards, debugging, code review, and collaborative development practices.<br><hr>
 
-## 💻 Key Skills & Tech Stack
+💻 **Key Skills & Tech Stack**
 
-<p align="center">
-  <img src="./assets/skills.png"
-       alt="Key Skills & Tech Stack"
-       width="100%">
-</p>
+<h2>💻 Key Expertise & Tech Stack</h2>
 
-### ☕ Programming Languages
-- Java 8+
-- JavaScript
-- SQL
+<table>
+<tr>
+<td width="50%">
 
-### 🚀 Java Technologies
-- Core Java
-- OOP
-- Collections
-- Exception Handling
-- JDBC
-- JSP
-- Servlets
+### ☕ Java & Core Technologies
 
-### 🌱 Frameworks & Libraries
-- Spring
-- Spring MVC
-- Spring Boot
-- Spring Data JPA
-- Hibernate
+`Java 8+` • `Core Java` • `OOP` • `Collections` • `Exception Handling` • `JDBC` • `JSP` • `Servlets`
 
-### 🌐 Web & APIs
-- REST APIs
-- RESTful Web Services
-- HTML5
-- CSS3
-- Bootstrap
+</td>
+<td width="50%">
 
-### 🗄️ Databases
-- MySQL
-- H2
+### 🌱 Spring & Backend
 
-### 🛠️ Tools & Platforms
-- Eclipse
-- Spring Tool Suite (STS)
-- IntelliJ IDEA
-- VS Code
-- MySQL Workbench
-- Apache Tomcat
+`Spring` • `Spring MVC` • `Spring Boot` • `Spring Data JPA` • `Hibernate` • `REST APIs`
 
-### 🔧 Version Control & Collaboration
-- Git
-- GitHub
-- Bitbucket
-- Jira
+</td>
+</tr>
 
-### 🤖 AI-Assisted Development
-- ChatGPT
-- Google Gemini
-- GitHub Copilot
+<tr>
+<td width="50%">
+
+### 🌐 Web Technologies
+
+`HTML5` • `CSS3` • `Bootstrap` • `JavaScript` • `RESTful Web Services`
+
+</td>
+<td width="50%">
+
+### 🗄️ Database
+
+`MySQL` • `H2` • `MySQL Workbench` • `CRUD` • `Database Integration`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧪 Testing & Quality Assurance
+
+`Functional Testing` • `Regression Testing` • `API Testing` • `Postman` • `Jira` • `Debugging`
+
+</td>
+<td width="50%">
+
+### 🔧 Tools & Version Control
+
+`Eclipse` • `STS` • `IntelliJ IDEA` • `VS Code` • `Git` • `GitHub` • `Bitbucket` • `Apache Tomcat`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📋 Development Practices
-- MVC Architecture
-- CRUD Operations
-- Agile/Scrum
-- Debugging
-- Code Review
+
+`MVC` • `Agile/Scrum` • `Code Review` • `Problem Solving` • `Application Maintenance`
+
+</td>
+<td width="50%">
+
+### 🤖 AI-Assisted Development
+
+`ChatGPT` • `Google Gemini` • `GitHub Copilot`
+
+</td>
+</tr>
+</table>
 <hr>
 
 💼 **Key Projects Highlight**
