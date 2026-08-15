@@ -109,9 +109,6 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 - 📧 **Email:** [vaishnavichavan1012@gmail.com](mailto:vaishnavichavan1012@gmail.com)
 - 📍 **Location:** Pune, Maharashtra, India
 
-
----
-[![](https://komarev.com/ghpvc/?username=VaishnaviChavan12&icon=0&color=0)](https://visitcount.itsvg.in)
 <hr>
 <p align="center">
 <sub>Visitor count:
