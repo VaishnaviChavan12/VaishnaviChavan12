@@ -112,7 +112,7 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 <hr>
 
 <p align="center">
-Visitor Count: ![](https://komarev.com/ghpvc/?username=VaishnaviChavan12&label=Profile%20views&color=0e75b6&style=flat)
+Visitor Count: ![](https://github-readme-stats.shion.dev/api?username=VaishnaviChavan12&label=Profile%20views&color=0e75b6&style=flat)
 </p>
 <hr>
 
