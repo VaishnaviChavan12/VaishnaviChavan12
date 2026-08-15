@@ -53,9 +53,7 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 `Eclipse` • `STS` • `IntelliJ IDEA` • `VS Code` • `Git` • `GitHub` • `Bitbucket` • `Apache Tomcat`
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 🤖 **AI-Assisted Development**
