@@ -97,32 +97,11 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 <hr>
 
  ### 📊 **GitHub Activity & Stats:**
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    width="48%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    width="48%"
-    alt="Most Used Languages"
-  />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=VaishnaviChavan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
----
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VaishnaviChavan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400)
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-    width="70%"
-    alt="GitHub Streak"
-  />
-</p>
-
----
+![](https://streak-stats.demolab.com/?user=VaishnaviChavan12&theme=dark&hide_border=false)
  
 <hr>
 
