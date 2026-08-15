@@ -22,7 +22,7 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 
 🌱 **Spring & Backend**
 
-`Spring` • `Spring MVC` • `Spring Boot` • `Spring Data JPA` • `Hibernate` • `REST APIs`
+`Spring` • `Spring MVC` • `Spring Boot` • `Spring Data JPA` • `Hibernate` • `REST APIs` • `MySQL` • `H2` • `MySQL Workbench`
 
 </td>
 </tr>
@@ -37,21 +37,15 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 </td>
 <td width="50%">
 
-🗄️ **Database**
-
-`MySQL` • `H2` • `MySQL Workbench` • `CRUD` • `Database Integration`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 🧪 **Testing & Quality Assurance**
 
 `Functional Testing` • `Regression Testing` • `API Testing` • `Postman` • `Jira` • `Debugging`
 
 </td>
+</tr>
+
+<tr>
+
 <td width="50%">
 
 🔧 **Tools & Version Control**
@@ -62,13 +56,6 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 </tr>
 
 <tr>
-<td width="50%">
-
-📋 **Development Practices**
-
-`MVC` • `Agile/Scrum` • `Code Review` • `Problem Solving` • `Application Maintenance`
-
-</td>
 <td width="50%">
 
 🤖 **AI-Assisted Development**
