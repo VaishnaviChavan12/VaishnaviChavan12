@@ -1,4 +1,4 @@
-### Hi there, I'm Vaishnavi Chavan! 👋<br>
+#### Hi there, I'm Vaishnavi Chavan! 👋<br>
 ### Java Developer | Backend Developer | Spring Boot Developer 🚀
 <br>I am a Java Developer with 2.5 years of experience specializing in building scalable and maintainable backend applications and enterprise solutions. My experience includes working with Core Java, Java 8+, Spring,**Spring Boot**, Hibernate, JPA, JDBC, **REST APIs**, JSP, Servlets, and **MySQL**<br><br>
 I focus on developing robust business logic, **RESTful services**, database-driven applications, and layered/MVC architectures while contributing across the complete application development lifecycle—from requirement understanding and development to testing, debugging, integration, and maintenance.<br><hr>
@@ -109,6 +109,10 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 - 📍 **Location:** Pune, Maharashtra, India
 
 ---
-[![](https://komarev.com/ghpvc/?username=VaishnaviChavan12&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <strong>Visitor Count:</strong>
+  <img src="https://komarev.com/ghpvc/?username=VaishnaviChavan12&label=Profile%20views&color=0e75b6&style=flat"
+       alt="Visitor Count" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
