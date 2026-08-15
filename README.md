@@ -9,21 +9,18 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 - **Development Practices:** Follow Agile/Scrum, Git-based version control, coding standards, debugging, code review, and collaborative development practices.<br><hr>
 
 💻 **Key Skills & Tech Stack**
-
-<h2>💻 Key Expertise & Tech Stack</h2>
-
 <table>
 <tr>
 <td width="50%">
 
-### ☕ Java & Core Technologies
+☕ **Java & Core Technologies**
 
 `Java 8+` • `Core Java` • `OOP` • `Collections` • `Exception Handling` • `JDBC` • `JSP` • `Servlets`
 
 </td>
 <td width="50%">
 
-### 🌱 Spring & Backend
+🌱 **Spring & Backend**
 
 `Spring` • `Spring MVC` • `Spring Boot` • `Spring Data JPA` • `Hibernate` • `REST APIs`
 
@@ -33,14 +30,14 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 <tr>
 <td width="50%">
 
-### 🌐 Web Technologies
+🌐 **Web Technologies**
 
 `HTML5` • `CSS3` • `Bootstrap` • `JavaScript` • `RESTful Web Services`
 
 </td>
 <td width="50%">
 
-### 🗄️ Database
+🗄️ **Database**
 
 `MySQL` • `H2` • `MySQL Workbench` • `CRUD` • `Database Integration`
 
@@ -50,14 +47,14 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 <tr>
 <td width="50%">
 
-### 🧪 Testing & Quality Assurance
+🧪 **Testing & Quality Assurance**
 
 `Functional Testing` • `Regression Testing` • `API Testing` • `Postman` • `Jira` • `Debugging`
 
 </td>
 <td width="50%">
 
-### 🔧 Tools & Version Control
+🔧 **Tools & Version Control**
 
 `Eclipse` • `STS` • `IntelliJ IDEA` • `VS Code` • `Git` • `GitHub` • `Bitbucket` • `Apache Tomcat`
 
@@ -67,14 +64,14 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 <tr>
 <td width="50%">
 
-### 📋 Development Practices
+📋 **Development Practices**
 
 `MVC` • `Agile/Scrum` • `Code Review` • `Problem Solving` • `Application Maintenance`
 
 </td>
 <td width="50%">
 
-### 🤖 AI-Assisted Development
+🤖 **AI-Assisted Development**
 
 `ChatGPT` • `Google Gemini` • `GitHub Copilot`
 
