@@ -97,9 +97,9 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 <hr>
 
  ### 📊 **GitHub Activity & Stats:**
-![](https://github-readme-stats.shion.dev/api?username=VaishnaviChavan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VaishnaviChavan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://streak-stats.demolab.com/?user=VaishnaviChavan12&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=VaishnaviChavan12&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VaishnaviChavan12&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=VaishnaviChavan12&theme=blueberry&hide_border=false)
  
 <hr>
 
