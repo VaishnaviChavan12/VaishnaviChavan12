@@ -1,6 +1,6 @@
 ### Hi there, I'm Vaishnavi Chavan! 👋<br>
 ### Java Developer | Backend Developer | Spring Boot Developer 🚀
-<br><br>I am a Java Developer with 2.5 years of experience specializing in building scalable and maintainable backend applications and enterprise solutions. My experience includes working with Core Java, Java 8+, Spring,**Spring Boot**, Hibernate, JPA, JDBC, **REST APIs**, JSP, Servlets, and **MySQL**<br><br>
+<br>I am a Java Developer with 2.5 years of experience specializing in building scalable and maintainable backend applications and enterprise solutions. My experience includes working with Core Java, Java 8+, Spring,**Spring Boot**, Hibernate, JPA, JDBC, **REST APIs**, JSP, Servlets, and **MySQL**<br><br>
 I focus on developing robust business logic, **RESTful services**, database-driven applications, and layered/MVC architectures while contributing across the complete application development lifecycle—from requirement understanding and development to testing, debugging, integration, and maintenance.<br><hr>
 ### ⚡ **Career & Technical Highlights**<br>
 - **Backend Development:** Developed and maintained enterprise applications using Java, Spring Boot, Hibernate/JPA, REST APIs, JDBC, and MySQL.<br>
@@ -98,8 +98,8 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 
  ### 📊 **GitHub Activity & Stats:**
 ![](https://github-readme-stats.shion.dev/api?username=VaishnaviChavan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=VaishnaviChavan12&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VaishnaviChavan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=VaishnaviChavan12&theme=dark&hide_border=false)
 
 
 ## 🤝 Let's Connect!
