@@ -111,9 +111,8 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 
 ---
 <p align="center">
-
-Visitor Count: ![](https://komarev.com/ghpvc/?username=VaishnaviChavan12&label=Profile%20views&color=0e75b6&style=flat)
-
+  <sub>Visitor Count:</sub>
+  ![](https://komarev.com/ghpvc/?username=VaishnaviChavan12&label=Profile%20views&color=0e75b6&style=flat)
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
