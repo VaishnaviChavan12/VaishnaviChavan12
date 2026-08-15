@@ -111,16 +111,10 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 
 <hr>
 
-<p align="center" dir="auto">
-<sub>
-Visitor Count: ![](https://komarev.com/ghpvc/?username=VaishnaviChavan12&label=Profile%20views&color=0e75b6&style=flat)
-</sub>
+<p align="center">
+Visitor Count: ![Profile views](https://komarev.com/ghpvc/?username=VaishnaviChavan12&label=Profile%20views&color=0e75b6&style=flat)
 </p>
 <hr>
 
-<p align="center">
-  Visitor Count:
-  ![Profile views](https://komarev.com/ghpvc/?username=VaishnaviChavan12&label=Profile%20views&color=0e75b6&style=flat)
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
