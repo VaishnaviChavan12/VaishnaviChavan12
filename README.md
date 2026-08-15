@@ -115,7 +115,7 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 <hr>
 <p align="center">
 <sub>Visitor count:
-  <img src="https://komarev.com/ghpvc/?username=VaishnaviChavan12&label=Profile%20views&color=blue&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=VaishnaviChavan12&label=Profile%20views&color=blue&style=flat" valign="middle" alt="Profile views">
 </sub>
 </p>
 
