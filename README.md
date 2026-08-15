@@ -120,7 +120,7 @@ Visitor Count: ![Profile views](https://komarev.com/ghpvc/?username=VaishnaviCha
 
 <p align="center">
   Visitor Count:
-  ![](https://komarev.com/ghpvc/?username=VaishnaviChavan12&label=Profile%20views&color=0e75b6&style=flat)
+  ![Profile views](https://komarev.com/ghpvc/?username=VaishnaviChavan12&label=Profile%20views&color=0e75b6&style=flat)
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
