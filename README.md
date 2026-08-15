@@ -113,7 +113,7 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 
 <p align="center" dir="auto">
 <sub>
-Visitor Count: ![Profile views](https://komarev.com/ghpvc/?username=VaishnaviChavan12&label=Profile%20views&color=0e75b6&style=flat)
+Visitor Count: ![](https://komarev.com/ghpvc/?username=VaishnaviChavan12&label=Profile%20views&color=0e75b6&style=flat)
 </sub>
 </p>
 <hr>
