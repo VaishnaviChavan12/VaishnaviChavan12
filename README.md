@@ -10,7 +10,7 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 
 💻 **Key Expertise & Tech Stack**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
+<hr>
 
 💼 **Key Projects Highlight**
 
@@ -40,25 +40,7 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 - **Impact:** Worked on a web-based furniture application using JSP and Servlets with MySQL integration. Implemented application functionality and backend request handling, performed functional testing, supported debugging, and retested application fixes.
 
 </details>
-
-<details>
-<summary>⚙️ <b>Enterprise Java Backend Development</b></summary>
-
-- **Role:** Java Developer
-- **Stack:** Core Java, Java 8+, Spring Boot, Hibernate/JPA, JDBC, REST APIs, MySQL
-- **Impact:** Developed backend functionality using OOP and layered/MVC architecture. Implemented business logic, CRUD operations, RESTful services, and database integration while troubleshooting issues across Java, Spring, Hibernate, API, and database layers.
-
-</details>
-
-<details>
-<summary>🤖 <b>AI-Assisted Development</b></summary>
-
-- **Role:** Java Developer
-- **Tools:** ChatGPT, Google Gemini, GitHub Copilot
-- **Impact:** Used AI-assisted development tools for code generation, code analysis, debugging, documentation, and problem-solving. Reviewed and validated AI-generated code against project requirements, coding standards, security, performance, and application architecture.
-
-</details>
-
+<hr>
 
  📊 **GitHub Activity & Stats:**
 ![](https://github-readme-stats.shion.dev/api?username=VaishnaviChavan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
