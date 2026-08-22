@@ -108,7 +108,6 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 - 💼 **LinkedIn:** [linkedin.com/in/chavan-vaishnavi](https://www.linkedin.com/in/chavan-vaishnavi)
 - 📧 **Email:** [vaishnavichavan1012@gmail.com](mailto:vaishnavichavan1012@gmail.com)
 - 📍 **Location:** Pune, Maharashtra, India
-- 
 
 <hr>
 <p align="center">
