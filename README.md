@@ -16,7 +16,7 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 
 ☕ **Java & Core Technologies**
 
-`Java 17+` • `Core Java` • `OOP` • `Collections` • `Exception Handling` • `JDBC` • `JSP` • `Servlets`
+`Java 8+` • `Core Java` • `OOP` • `Collections` • `Exception Handling` • `JDBC` • `JSP` • `Servlets`
 
 </td>
 <td width="50%">
