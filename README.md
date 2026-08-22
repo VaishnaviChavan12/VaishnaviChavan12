@@ -16,14 +16,14 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 
 ☕ **Java & Core Technologies**
 
-`Java 8+` • `Core Java` • `OOP` • `Collections` • `Exception Handling` • `JDBC` • `JSP` • `Servlets`
+`Java 17+` • `Core Java` • `OOP` • `Collections` • `Exception Handling` • `JDBC` • `JSP` • `Servlets`
 
 </td>
 <td width="50%">
 
 🌱 **Spring & Backend**
 
-`Spring` • `Spring MVC` • `Spring Boot` • `Spring Data JPA` • `Hibernate` • `REST APIs` • `MySQL` • `H2` • `MySQL Workbench`
+`Spring Boot` • `Spring MVC` • `Spring Security` • `Spring Data JPA` •  `Spring AOP`• `Hibernate` • `REST APIs` • `MySQL` • `H2` • `Microservices`
 
 </td>
 </tr>
@@ -51,7 +51,7 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 
 🔧 **Tools & Version Control**
 
-`Eclipse` • `STS` • `IntelliJ IDEA` • `VS Code` • `Git` • `GitHub` • `Bitbucket` • `Apache Tomcat`
+`Eclipse` • `STS` • `IntelliJ IDEA` • `VS Code` • `Git` • `GitHub` • `Bitbucket` • `Apache Tomcat` • `MySQL Workbench`
 
 </td>
 
