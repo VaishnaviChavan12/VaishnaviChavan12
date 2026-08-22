@@ -106,7 +106,7 @@ I focus on developing robust business logic, **RESTful services**, database-driv
 ## 🤝 Let's Connect!
 
 - 💼 **LinkedIn:** [linkedin.com/in/chavan-vaishnavi](https://www.linkedin.com/in/chavan-vaishnavi)
-- [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](YOUR_X_PROFILE_URL)
+- 𝕏 **X:** [VaishChavan24](https://x.com/VaishChavan24)
 - 📧 **Email:** [vaishnavichavan1012@gmail.com](mailto:vaishnavichavan1012@gmail.com)
 - 📍 **Location:** Pune, Maharashtra, India
 - 
